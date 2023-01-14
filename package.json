@@ -2,12 +2,13 @@
   "name": "08-socket-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Carlos Arancibia",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
